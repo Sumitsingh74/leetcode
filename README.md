@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sumitsingh74/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sumitsingh74/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sumitsingh74/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sumitsingh74/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sumitsingh74/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
