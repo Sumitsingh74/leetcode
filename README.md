@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sumitsingh74/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sumitsingh74/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2601-number-of-great-partitions](https://github.com/Sumitsingh74/leetcode/tree/master/2601-number-of-great-partitions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumitsingh74/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2510-maximum-deletions-on-a-string](https://github.com/Sumitsingh74/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
+| [2601-number-of-great-partitions](https://github.com/Sumitsingh74/leetcode/tree/master/2601-number-of-great-partitions) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Backtracking
