@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sumitsingh74/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumitsingh74/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumitsingh74/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sumitsingh74/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sumitsingh74/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumitsingh74/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sumitsingh74/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Sorting
