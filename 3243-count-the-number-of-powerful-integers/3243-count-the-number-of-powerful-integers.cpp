@@ -14,7 +14,7 @@ private:
         // rasenganScroll[i][tightMode] -> DP table: tightMode = 0 (free), 1 (bound to value)
         vector<vector<long long>> rasenganScroll(prefixLength + 1, vector<long long>(2, 0));
 
-        // Base case: we’ve formed all prefix digits, now check suffix validity
+
         rasenganScroll[prefixLength][0] = 1;  // Free path
         rasenganScroll[prefixLength][1] = chakraFlow.substr(prefixLength) >= clanSymbol ? 1 : 0;
 
