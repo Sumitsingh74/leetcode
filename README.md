@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Sumitsingh74/leetcode/tree/master/2145-grid-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/Sumitsingh74/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sumitsingh74/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Sumitsingh74/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/Sumitsingh74/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Sumitsingh74/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2601-number-of-great-partitions](https://github.com/Sumitsingh74/leetcode/tree/master/2601-number-of-great-partitions) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
