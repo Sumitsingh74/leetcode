@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sumitsingh74/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumitsingh74/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumitsingh74/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Sumitsingh74/leetcode/tree/master/2690-house-robber-iv) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumitsingh74/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sumitsingh74/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Sumitsingh74/leetcode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Sumitsingh74/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Sumitsingh74/leetcode/tree/master/3430-count-days-without-meetings) |
