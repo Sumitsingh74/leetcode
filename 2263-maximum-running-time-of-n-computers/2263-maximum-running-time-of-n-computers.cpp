@@ -1,5 +1,6 @@
 class Solution {
 public:
+
         long long maxRunTime(int n, vector<int>& A) {
         sort(A.begin(), A.end());
         long long sum = accumulate(A.begin(), A.end(), 0L);
