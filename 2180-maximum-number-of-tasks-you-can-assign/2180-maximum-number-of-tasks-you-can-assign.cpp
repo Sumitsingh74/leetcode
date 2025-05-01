@@ -24,7 +24,7 @@ private:
     bool canAssign(int k, const vector<int>& tasks, const vector<int>& workers, int pills, int strength) {
         multiset<int> availableWorkers;
 
-        for (int i = workers.size() - k; i < workers.size(); i++) {
+        for (int i = 0; i < workers.size(); i++) {
             availableWorkers.insert(workers[i]);
         }
 
