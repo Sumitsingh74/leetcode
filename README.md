@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Sumitsingh74/leetcode/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sumitsingh74/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Sumitsingh74/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Sumitsingh74/leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumitsingh74/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Sumitsingh74/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sumitsingh74/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Sumitsingh74/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sumitsingh74/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2505-number-of-good-paths](https://github.com/Sumitsingh74/leetcode/tree/master/2505-number-of-good-paths) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Sumitsingh74/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Sumitsingh74/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
