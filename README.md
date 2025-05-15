@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sumitsingh74/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
