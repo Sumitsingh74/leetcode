@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sumitsingh74/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Sumitsingh74/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Sumitsingh74/leetcode/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumitsingh74/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Sumitsingh74/leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumitsingh74/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Sumitsingh74/leetcode/tree/master/2509-minimize-xor) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Sumitsingh74/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Sumitsingh74/leetcode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Sumitsingh74/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sumitsingh74/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -582,5 +586,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 <!---LeetCode Topics End-->
