@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumitsingh74/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Sumitsingh74/leetcode/tree/master/3429-special-array-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Sumitsingh74/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Sumitsingh74/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sumitsingh74/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
