@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sumitsingh74/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sumitsingh74/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sumitsingh74/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Sumitsingh74/leetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -598,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 <!---LeetCode Topics End-->
