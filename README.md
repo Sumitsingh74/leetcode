@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sumitsingh74/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sumitsingh74/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sumitsingh74/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumitsingh74/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Sumitsingh74/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Hash Table
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Sumitsingh74/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3859-maximum-product-of-two-digits](https://github.com/Sumitsingh74/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Dynamic Programming
 |  |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sumitsingh74/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Brainteaser
