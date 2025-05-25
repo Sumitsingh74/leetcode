@@ -30,10 +30,8 @@ class Solution {
             }
             if (!valid) continue;
              if (k == n) {
-                // Entire substring from i to n-1 can be removed, candidate is empty string
                 String candidate = dfs(n, lastChar, s, canRemove, memo);
                 if (candidate.compareTo("") < 0) {
-                    // Not possible, since empty is smallest
                 }
                 if (candidates.isEmpty()) {
                     String currentMin = candidate;
@@ -46,9 +44,6 @@ class Solution {
             }
 
             char current = s.charAt(k);
-            // if (lastChar != ' ' && areConsecutive(lastChar, current)) {
-            //     continue;
-            // }
 
             if (current < minChar) {
                 minChar = current;
@@ -67,7 +62,6 @@ class Solution {
                 minStr = candidate;
             }
         }
-          // Check if entire remaining can be removed (k == n)
         if (i <= n - 1 && canRemove[i][n - 1]) {
             String candidate = "";
             if (minStr == null || candidate.compareTo(minStr) < 0) {
@@ -75,10 +69,6 @@ class Solution {
             }
         }
 
-        if (minStr == null) {
-            // If no candidates, take the remaining substring
-            minStr = s.substring(i);
-        }
 
         memo.put(key, minStr);
         return minStr;
