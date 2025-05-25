@@ -27,11 +27,9 @@ class Solution {
                 }
             }
             if (!valid) continue;
-             if (k == n) {
-                
-                        memo.put(key, "");
-                        return "";
-                   
+             if (k == n) {        
+                memo.put(key, "");
+                return "";
             }
 
             char current = s.charAt(k);
@@ -53,12 +51,12 @@ class Solution {
                 minStr = candidate;
             }
         }
-        if (i <= n - 1 && canRemove[i][n - 1]) {
-            String candidate = "";
-            if (minStr == null || candidate.compareTo(minStr) < 0) {
-                minStr = candidate;
-            }
-        }
+        // if (i <= n - 1 && canRemove[i][n - 1]) {
+        //     String candidate = "";
+        //     if (minStr == null || candidate.compareTo(minStr) < 0) {
+        //         minStr = candidate;
+        //     }
+        // }
 
         memo.put(key, minStr);
         return minStr;
