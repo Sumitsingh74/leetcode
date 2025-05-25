@@ -15,8 +15,6 @@ class Solution {
 
         TreeSet<Integer> candidates = new TreeSet<>();
         char minChar = Character.MAX_VALUE;
-
-        // Check all possible k from i to n (inclusive)
         for (int k = i; k <= n; k++) {
             boolean valid = false;
             if (k == n) {
@@ -30,17 +28,10 @@ class Solution {
             }
             if (!valid) continue;
              if (k == n) {
-                String candidate = dfs(n, lastChar, s, canRemove, memo);
-                if (candidate.compareTo("") < 0) {
-                }
-                if (candidates.isEmpty()) {
-                    String currentMin = candidate;
-                    if (currentMin.compareTo("") == 0) {
+                
                         memo.put(key, "");
                         return "";
-                    }
-                }
-                continue;
+                   
             }
 
             char current = s.charAt(k);
@@ -69,7 +60,6 @@ class Solution {
             }
         }
 
-
         memo.put(key, minStr);
         return minStr;
     }
@@ -81,12 +71,11 @@ class Solution {
 
         boolean[][] canRemove = new boolean[n][n];
 
-        // Initialize base cases
         for (int i = 0; i < n; i++) {
             Arrays.fill(canRemove[i], false);
-            canRemove[i][i] = false; // single character cannot be removed
+            canRemove[i][i] = false; 
             if (i > 0) {
-                canRemove[i][i - 1] = true; // empty substring
+                canRemove[i][i - 1] = true; 
             }
         }
 
@@ -113,7 +102,6 @@ class Solution {
         Map<String, String> memo = new HashMap<>();
         String result = dfs(0, ' ', s, canRemove, memo);
 
-        // Post-process to remove any remaining consecutive pairs
         return result;
     }
     
