@@ -643,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sumitsingh74/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
