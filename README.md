@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Sumitsingh74/leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sumitsingh74/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2505-number-of-good-paths](https://github.com/Sumitsingh74/leetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sumitsingh74/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Sumitsingh74/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sumitsingh74/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
