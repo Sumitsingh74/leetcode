@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sumitsingh74/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sumitsingh74/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sumitsingh74/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/Sumitsingh74/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sumitsingh74/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Sumitsingh74/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sumitsingh74/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Sumitsingh74/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
