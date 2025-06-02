@@ -1,140 +1,221 @@
-class Solution {
-    // maximum lazy update
-    class SegmentTree{
-        int n;
-        vector<int> nodes;
-        vector<int> lazy;
-        // 0 index -> 2*n+1 and 2*n+2
-        void build(int cur, int left, int right, vector<int>& init){
-            if(left == right){ // base
-                nodes[cur] = init[left];
-                return;
-            }
-            int mid = (left + right) / 2;
-            build(2*cur+1, left, mid, init);
-            build(2*cur+2, mid+1, right, init);
-            nodes[cur] = max(nodes[2*cur+1], nodes[2*cur+2]);
-        }
-        void push(int cur, int left, int right){
-            if(lazy[cur] != 0){ // need update
-                nodes[cur] += lazy[cur];
-                if(left != right){
-                    lazy[2*cur+1] += lazy[cur];
-                    lazy[2*cur+2] += lazy[cur];
-                }
-                lazy[cur] = 0;
-            }
-        }
-        void update(int cur, int qL, int qR, int val, int l, int r){
-            push(cur, l, r);
-            if(r < qL || qR < l) return;
-            if(qL <= l && r <= qR){
-                lazy[cur] += val;
-                push(cur, l ,r);
-                return;
-            }
-            int mid = (l + r)/2;
-            update(2*cur+1, qL, qR, val, l, mid);
-            update(2*cur+2, qL, qR, val, mid+1, r);
-            nodes[cur] = max(nodes[2*cur+1], nodes[2*cur+2]);
-        }
-    public:
-        SegmentTree(int n, vector<int>& init){
-            this->n = n;
-            nodes.resize(4*n);
-            lazy.resize(4*n, 0);
-            build(0, 0, n-1, init);
-        }
-        int query(){ // special case: only need the max 0~n-1
-            push(0, 0, n-1);
-            return nodes[0];
-        }
-        void update(int qL, int qR, int val){
-            update(0, qL, qR, val, 0, n-1);
-        }
-    };
-    const int MAX_NUM = 100000;
+#include <vector>
+#include <set>
+#include <algorithm>
+#include <climits>
+using namespace std;
+
+const long MAXN = 101000;
+
+class SegmentTree {
 public:
-    vector<int> maximumCount(vector<int>& nums, vector<vector<int>>& queries) {
-        // 1. calculate all prime from 1 - 1E5 with sieve
-        bool prime[MAX_NUM+1];
-        fill(prime, prime+MAX_NUM+1, true);
-        prime[1] = false;
-        for(int i=2; i<=sqrt(MAX_NUM); ++i){
-            if(prime[i]){
-                for(int val = i*i; val <= MAX_NUM; val += i){
-                    prime[val] = false;
-                }
+    vector<int> tree, lazy;
+    int n;
+
+    SegmentTree(vector<int>& arr) {
+        n = arr.size();
+        tree.resize(4 * n, 0);
+        lazy.resize(4 * n, 0);
+        build(arr, 0, 0, n - 1);
+    }
+
+    void build(vector<int>& arr, int idx, int start, int end) {
+        if (start == end) {
+            tree[idx] = arr[start];
+        } else {
+            int mid = (start + end) / 2;
+            build(arr, 2 * idx + 1, start, mid);
+            build(arr, 2 * idx + 2, mid + 1, end);
+            tree[idx] = max(tree[2 * idx + 1], tree[2 * idx + 2]);
+        }
+    }
+
+    void updateRange(int idx, int start, int end, int l, int r, int delta) {
+        if (lazy[idx] != 0) {
+            tree[idx] += lazy[idx];
+            if (start != end) {
+                lazy[2 * idx + 1] += lazy[idx];
+                lazy[2 * idx + 2] += lazy[idx];
             }
+            lazy[idx] = 0;
         }
-        // 2. precomputing inital state and construct hashMap: prime -> map index
-        int n = nums.size();
-        unordered_map<int, set<int>> primeToInd;
-        for(int i=0; i<n; ++i){
-            if(prime[ nums[i] ] == true){
-                primeToInd[nums[i]].insert(i);
+
+        if (start > r || end < l) return;
+
+        if (start >= l && end <= r) {
+            tree[idx] += delta;
+            if (start != end) {
+                lazy[2 * idx + 1] += delta;
+                lazy[2 * idx + 2] += delta;
             }
+            return;
         }
-        vector<int> delta(n+1, 0);
-        // 2.1 Choose k will split [0~k-1] [k~n-1]
-        for(auto& [val, indMap] : primeToInd){
-            if(indMap.size() >= 2){
-                delta[ (*indMap.begin())+1 ] += 1;
-                delta[ (*indMap.rbegin())+1 ] -= 1;
+
+        int mid = (start + end) / 2;
+        updateRange(2 * idx + 1, start, mid, l, r, delta);
+        updateRange(2 * idx + 2, mid + 1, end, l, r, delta);
+        tree[idx] = max(tree[2 * idx + 1], tree[2 * idx + 2]);
+    }
+
+    void updateRange(int l, int r, int delta) {
+        if (l > r) return;
+        l = max(l, 0);
+        r = min(r, n - 1);
+        if (l > r) return;
+        updateRange(0, 0, n - 1, l, r, delta);
+    }
+
+    int queryRange(int idx, int start, int end, int l, int r) {
+        if (lazy[idx] != 0) {
+            tree[idx] += lazy[idx];
+            if (start != end) {
+                lazy[2 * idx + 1] += lazy[idx];
+                lazy[2 * idx + 2] += lazy[idx];
             }
+            lazy[idx] = 0;
         }
-        for(int i=1; i<=n; ++i){
-            delta[i] += delta[i-1];
+
+        if (start > r || end < l) {
+            return INT_MIN;
         }
-        // 3. solve each query
-        SegmentTree seg(n, delta);
-        vector<int> ans;
-        for(auto& q : queries){
-            int ind = q[0];
-            int newVal = q[1];
-            int oldVal = nums[ind];
-            nums[ind] = newVal;
-            // remove the oldVal
-            if(prime[oldVal]){
-                if(primeToInd[oldVal].size() >= 2){
-                    set<int>& indSet = primeToInd[oldVal];
-                    int left = *(indSet.begin()) + 1, right = *(indSet.rbegin());
-                    if(ind == left-1 || ind == right){ // it is boundary
-                        seg.update(left, right, -1);
-                        indSet.erase(ind); // remove pos
-                        if(indSet.size() >= 2){
-                            // add back the range
-                            left = *(indSet.begin()) + 1; right = *(indSet.rbegin());
-                            seg.update(left, right, 1);
+
+        if (start >= l && end <= r) {
+            return tree[idx];
+        }
+
+        int mid = (start + end) / 2;
+        int left_val = queryRange(2 * idx + 1, start, mid, l, r);
+        int right_val = queryRange(2 * idx + 2, mid + 1, end, l, r);
+        return max(left_val, right_val);
+    }
+
+    int queryRange(int l, int r) {
+        if (l > r) return 0;
+        l = max(l, 0);
+        r = min(r, n - 1);
+        if (l > r) return 0;
+        return queryRange(0, 0, n - 1, l, r);
+    }
+};
+
+class Solution {
+public:
+    vector<int> maximumCount(vector<int>& arr, vector<vector<int>>& qs) {
+        static vector<long> sievediv(MAXN + 1, 0);
+        static bool sieve_computed = false;
+        if (!sieve_computed) {
+            for (long i = 1; i <= MAXN; i++) {
+                sievediv[i] = i;
+            }
+            for (long i = 4; i <= MAXN; i += 2) {
+                sievediv[i] = 2;
+            }
+            for (long i = 3; i * i <= MAXN; i++) {
+                if (sievediv[i] == i) {
+                    for (long j = i * i; j <= MAXN; j += i) {
+                        if (sievediv[j] == j) {
+                            sievediv[j] = i;
                         }
-                    } else { // not boundary
-                        indSet.erase(ind); 
                     }
-                } else { // size == 1
-                    primeToInd.erase(oldVal);
                 }
             }
-            // add the newVal
-            if(prime[newVal]){ 
-                if(primeToInd.count(newVal)){ // at least one index
-                    set<int>& indSet = primeToInd[newVal];
-                    int left = *(indSet.begin()) + 1, right = *(indSet.rbegin());
-                    if(ind < left-1 || ind > right){ // if out of range
-                        if(indSet.size() >= 2){ // remove the old range
-                            left = *(indSet.begin()) + 1, right = *(indSet.rbegin());
-                            seg.update(left, right, -1);
-                        }
-                        indSet.insert(ind);
-                        left = *(indSet.begin()) + 1; right = *(indSet.rbegin());
-                        seg.update(left, right, 1);
-                    } else
-                        indSet.insert(ind);
-                } else {
-                    primeToInd[newVal].insert(ind);
-                }
-            }
-            ans.push_back(primeToInd.size() + seg.query());
+            sievediv[1] = 0;
+            sieve_computed = true;
         }
-        return ans;
+
+        int n = arr.size();
+        vector<set<int>> sets(MAXN + 10);
+        vector<int> pre(n, 0);
+        int cou = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (arr[i] <= MAXN && arr[i] > 1 && sievediv[arr[i]] == arr[i]) {
+                if (sets[arr[i]].empty()) {
+                    cou++;
+                }
+                sets[arr[i]].insert(i);
+            }
+            pre[i] = cou;
+        }
+
+        set<int> set1;
+        cou = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (arr[i] <= MAXN && arr[i] > 1 && sievediv[arr[i]] == arr[i] && set1.find(arr[i]) == set1.end()) {
+                cou++;
+                set1.insert(arr[i]);
+            }
+            if (i > 0) {
+                pre[i - 1] += cou;
+            }
+        }
+
+        SegmentTree sg(pre);
+        vector<int> res;
+
+        for (int i = 0; i < qs.size(); i++) {
+            int ind = qs[i][0];
+            int x = qs[i][1];
+            int old_val = arr[ind];
+
+            if (old_val <= MAXN && old_val > 1 && sievediv[old_val] == old_val) {
+                set<int>& oldSet = sets[old_val];
+                if (oldSet.find(ind) != oldSet.end()) {
+                    int a0 = *oldSet.begin();
+                    int b0 = *oldSet.rbegin();
+                    if (ind == a0) {
+                        oldSet.erase(ind);
+                        if (oldSet.empty()) {
+                            sg.updateRange(a0, n - 1, -1);
+                        } else {
+                            int a1 = *oldSet.begin();
+                            sg.updateRange(a0, a1 - 1, -1);
+                        }
+                    } 
+                     if (ind == b0) {
+                        oldSet.erase(ind);
+                        if (oldSet.empty()) {
+                            if (b0 - 1 >= 0) {
+                                sg.updateRange(0, b0 - 1, -1);
+                            }
+                        } else {
+                            int b1 = *oldSet.rbegin();
+                            sg.updateRange(b1, b0 - 1, -1);
+                        }
+                    } 
+                     oldSet.erase(ind);
+                }
+            }
+
+            if (x <= MAXN && x > 1 && sievediv[x] == x) {
+                set<int>& newSet = sets[x];
+                bool wasEmpty = newSet.empty();
+                int a0 = -1, b0 = -1;
+                if (!wasEmpty) {
+                    a0 = *newSet.begin();
+                    b0 = *newSet.rbegin();
+                }
+                newSet.insert(ind);
+                if (wasEmpty) {
+                    sg.updateRange(ind, n - 1, 1);
+                    if (ind - 1 >= 0) {
+                        sg.updateRange(0, ind - 1, 1);
+                    }
+                } else {
+                    int a1 = *newSet.begin();
+                    int b1 = *newSet.rbegin();
+                    if (a1 == ind) {
+                        sg.updateRange(ind, a0 - 1, 1);
+                    }
+                    if (b1 == ind) {
+                        sg.updateRange(b0, ind - 1, 1);
+                    }
+                }
+            }
+
+            arr[ind] = x;
+            res.push_back(sg.queryRange(0, n - 1));
+        }
+
+        return res;
     }
 };
