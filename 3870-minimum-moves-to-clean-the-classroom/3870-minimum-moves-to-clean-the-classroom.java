@@ -114,50 +114,7 @@ class Solution {
                 }
             }
             return -1;
-        } else {
-            Map<State, Integer> distMap = new HashMap<>();
-            Queue<State> queue = new ArrayDeque<>();
-            BitSet startMask = new BitSet(k);
-            State startState = new State(startR, startC, energyCap, startMask);
-            distMap.put(startState, 0);
-            queue.add(startState);
-
-            while (!queue.isEmpty()) {
-                State state = queue.poll();
-                int moves = distMap.get(state);
-                if (state.mask.cardinality() == k) {
-                    return moves;
-                }
-                for (int d = 0; d < 4; d++) {
-                    int nr = state.r + dr[d];
-                    int nc = state.c + dc[d];
-                    if (nr < 0 || nr >= m || nc < 0 || nc >= n || grid[nr][nc] == 'X') {
-                        continue;
-                    }
-                    int newE = state.e - 1;
-                    if (newE < 0) {
-                        continue;
-                    }
-                    char cell = grid[nr][nc];
-                    BitSet newMask = (BitSet) state.mask.clone();
-                    if (cell == 'L') {
-                        int idx = litterIndex[nr][nc];
-                        if (idx != -1 && !newMask.get(idx)) {
-                            newMask.set(idx);
-                        }
-                    }
-                    int nextEnergy = newE;
-                    if (cell == 'R') {
-                        nextEnergy = energyCap;
-                    }
-                    State nextState = new State(nr, nc, nextEnergy, newMask);
-                    if (!distMap.containsKey(nextState) || distMap.get(nextState) > moves + 1) {
-                        distMap.put(nextState, moves + 1);
-                        queue.add(nextState);
-                    }
-                }
-            }
-            return -1;
-        }
+        } 
+        return -1;
     }
 }
