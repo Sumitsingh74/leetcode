@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sumitsingh74/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Sumitsingh74/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
