@@ -3,6 +3,7 @@ private:
     int check(long a, long b, long n) {
         int gap = 0;
         while (a <= n) {
+         
             gap += min(n + 1, b) - a;
             a *= 10;
             b *= 10;
