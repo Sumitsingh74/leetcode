@@ -1,121 +1,157 @@
-import java.util.*;
+class Solution {
+    private static class Edge {
+        int to;
+        long w;
+        Edge(int _to, long _w) { to = _to; w = _w; }
+    }
 
-public class Solution {
-    List<int[]>[] adj;
-    long[] depth;
-    long[] dist;
-    int LOG = 20;
-    int[][] up;
+    int n, LOG;
+    List<Edge>[] adj;
+    int[] depth, parent0;
+    long[] dist;              // dist[v] = total weight from root (0) to v
+    long[] weightToPar;       // weight of edge (v -> parent0[v])
+    int[][] up;               // up[k][v] = 2^k-th ancestor of v
+    long[][] weightUp;        // weightUp[k][v] = sum of weights from v up to up[k][v]
 
     public int[] findMedian(int n, int[][] edges, int[][] queries) {
-        adj = new ArrayList[n + 1];
-        depth = new long[n + 1];
-        dist = new long[n + 1];
-        up = new int[n + 1][LOG];
-        for (int i = 0; i <= n; i++)
-            adj[i] = new ArrayList<>();
+        this.n = n;
+        // log₂(n) rounded up
+        LOG = 1;
+        while ((1<<LOG) <= n) LOG++;
 
+        // build adjacency
+        adj = new ArrayList[n];
+        for (int i = 0; i < n; i++) adj[i] = new ArrayList<>();
         for (int[] e : edges) {
-            int u = e[0] + 1;
-            int v = e[1] + 1;
-            int w = e[2];
-            adj[u].add(new int[] {v, w});
-            adj[v].add(new int[] {u, w});
+            int u = e[0], v = e[1];
+            long w = e[2];
+            adj[u].add(new Edge(v, w));
+            adj[v].add(new Edge(u, w));
         }
 
-        depth[1] = 1;
-        dfs(1, 0);
+        // init arrays
+        depth      = new int[n];
+        parent0    = new int[n];
+        dist       = new long[n];
+        weightToPar= new long[n];
+        up         = new int[LOG][n];
+        weightUp   = new long[LOG][n];
 
-        for (int j = 1; j < LOG; j++) {
-            for (int i = 1; i <= n; i++) {
-                int p = up[i][j - 1];
-                up[i][j] = (p != 0) ? up[p][j - 1] : 0;
-            }
+        // dfs from root=0
+        parent0[0] = -1;
+        depth[0]   = 0;
+        dist[0]    = 0;
+        weightToPar[0] = 0;
+        dfs(0, -1);
+
+        // build binary-lifting tables
+        for (int v = 0; v < n; v++) {
+            up[0][v]      = parent0[v] < 0 ? -1 : parent0[v];
+            weightUp[0][v]= weightToPar[v];
         }
-
-        int q = queries.length;
-        int[] ans = new int[q];
-        for (int i = 0; i < q; i++) {
-            int u = queries[i][0] + 1;
-            int v = queries[i][1] + 1;
-            int lca = LCA(u, v);
-
-            long totalW = dist[u] + dist[v] - 2 * dist[lca];
-            long tar = (totalW + 1) / 2;
-            long len = depth[u] + depth[v] - 2 * depth[lca];
-
-            long low = 0, high = len;
-            int x = v;
-
-            while (low <= high) {
-                long mid = (low + high) / 2;
-                int mNode = getMNode(u, v, (int) mid, lca);
-                if (mNode == -1) break; 
-
-                long weight = dist[u] + dist[mNode] - 2 * dist[LCA(u, mNode)];
-                if (weight >= tar) {
-                    x = mNode;
-                    high = mid - 1;
+        for (int k = 1; k < LOG; k++) {
+            for (int v = 0; v < n; v++) {
+                int mid = up[k-1][v];
+                if (mid < 0) {
+                    up[k][v] = -1;
+                    weightUp[k][v] = weightUp[k-1][v];
                 } else {
-                    low = mid + 1;
+                    up[k][v] = up[k-1][mid];
+                    weightUp[k][v] = weightUp[k-1][v] + weightUp[k-1][mid];
                 }
             }
+        }
 
-            ans[i] = x - 1;
+        // answer each query in O(log n)
+        int Q = queries.length;
+        int[] ans = new int[Q];
+        for (int i = 0; i < Q; i++) {
+            int u = queries[i][0], v = queries[i][1];
+            ans[i] = medianOnPath(u, v);
         }
         return ans;
     }
 
-    void dfs(int node, int par) {
-        up[node][0] = par;
-        for (int[] e : adj[node]) {
-            int nxt = e[0];
-            int w = e[1];
-            if (nxt != par) {
-                depth[nxt] = depth[node] + 1;
-                dist[nxt] = dist[node] + w;
-                dfs(nxt, node);
-            }
+    // standard DFS to set parent0, depth, dist, weightToPar
+    private void dfs(int u, int p) {
+        for (Edge e : adj[u]) {
+            int v = e.to;
+            if (v == p) continue;
+            parent0[v]     = u;
+            depth[v]       = depth[u] + 1;
+            dist[v]        = dist[u] + e.w;
+            weightToPar[v] = e.w;
+            dfs(v, u);
         }
     }
 
-    int lift(int node, int k) {
-        for (int j = LOG - 1; j >= 0; j--) {
-            if (((k >> j) & 1) == 1) {
-                node = up[node][j];
-                if (node == 0) return -1; 
+    // lift u up by exactly 'd' levels
+    private int liftNode(int u, int d) {
+        for (int k = 0; k < LOG && u != -1; k++) {
+            if ((d & (1<<k)) != 0) {
+                u = up[k][u];
             }
         }
-        return node;
+        return u;
     }
 
-    int LCA(int u, int v) {
+    // lowest common ancestor of u,v
+    private int lca(int u, int v) {
         if (depth[u] < depth[v]) {
-            int tmp = u;
-            u = v;
-            v = tmp;
+            int tmp = u; u = v; v = tmp;
         }
-        int diff = (int)(depth[u] - depth[v]);
-        u = lift(u, diff);
+        u = liftNode(u, depth[u] - depth[v]);
         if (u == v) return u;
-        for (int j = LOG - 1; j >= 0; j--) {
-            if (up[u][j] != 0 && up[u][j] != up[v][j]) {
-                u = up[u][j];
-                v = up[v][j];
+        for (int k = LOG-1; k >= 0; k--) {
+            if (up[k][u] != up[k][v]) {
+                u = up[k][u];
+                v = up[k][v];
             }
         }
-        return up[u][0];
+        return parent0[u];
     }
 
-    int getMNode(int u, int v, int k, int lca) {
-        int distU = (int)(depth[u] - depth[lca]);
-        if (k <= distU) {
-            return lift(u, k);
+    // climb from u upward until we've taken >= W total weight;
+    // returns the first node X where sum(edge-weights from u→X) ≥ W
+    private int climbByWeight(int u, long W) {
+        if (W <= 0) return u;
+        long sum = 0;
+        int cur = u;
+        for (int k = LOG-1; k >= 0; k--) {
+            if (up[k][cur] != -1 && sum + weightUp[k][cur] < W) {
+                sum += weightUp[k][cur];
+                cur = up[k][cur];
+            }
+        }
+        // one more step gets us ≥ W
+        return parent0[cur];
+    }
+
+    // main routine for one query
+    private int medianOnPath(int u, int v) {
+        int w = lca(u, v);
+        long du = dist[u] - dist[w];
+        long dv = dist[v] - dist[w];
+        long total = du + dv;
+        // integer threshold = ceil(total/2)
+        long T = (total + 1) / 2;
+
+        if (du >= T) {
+            // median lies on the u→lca segment
+            return climbByWeight(u, T);
         } else {
-            int distV = (int)(depth[v] - depth[lca]);
-            int rem = distV - (k - distU);
-            if (rem < 0) return -1; 
-            return lift(v, rem);
+            // median lies on the lca→v segment
+            long down = T - du;               // weight to go downward from lca
+            long targetDist = dist[w] + down; 
+            // climb v upward to the highest ancestor whose dist ≥ targetDist
+            int cur = v;
+            for (int k = LOG-1; k >= 0; k--) {
+                int anc = up[k][cur];
+                if (anc != -1 && dist[anc] >= targetDist) {
+                    cur = anc;
+                }
+            }
+            return cur;
         }
     }
 }
