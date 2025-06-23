@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sumitsingh74/leetcode/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
