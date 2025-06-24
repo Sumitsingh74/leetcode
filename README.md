@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3858-subtree-inversion-sum](https://github.com/Sumitsingh74/leetcode/tree/master/3858-subtree-inversion-sum) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Binary Search
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3858-subtree-inversion-sum](https://github.com/Sumitsingh74/leetcode/tree/master/3858-subtree-inversion-sum) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Backtracking
 |  |
@@ -376,12 +379,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Bitmask
 |  |
 | ------- |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Math
 |  |
 | ------- |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Number Theory
 |  |
 | ------- |
@@ -459,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Stack
 |  |
 | ------- |
