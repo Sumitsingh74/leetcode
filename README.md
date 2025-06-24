@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-count-beautiful-splits-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sumitsingh74/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sumitsingh74/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumitsingh74/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Sorting
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Sumitsingh74/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Sumitsingh74/leetcode/tree/master/3859-maximum-product-of-two-digits) |
