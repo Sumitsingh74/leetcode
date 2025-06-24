@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findKDistantIndices(vector<int>& nums, int key, int k) {
         vector<int> res;
-        int r = 0;  // unjudged minimum index
+        int r = 0;  
         int n = nums.size();
         for (int j = 0; j < n; ++j) {
             if (nums[j] == key) {
