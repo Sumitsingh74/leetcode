@@ -1,42 +1,63 @@
+double dp[1 << 12][5][2];
+bool inqueue[1 << 12][5][2];
+int mxTime[1 << 12];
 class Solution {
 public:
-    double dp[4096][5][2][4] = {};
-int max_time[4096] = {};
-double dfs(uint mask, int st, bool across, int singles, int k, int m, vector<int>& time, vector<double>& mul) {
-    if (mask == 0)
-        return 0;
-    if (singles > 3)
-        return DBL_MAX;
-    if (dp[mask][st][across][singles] == 0) {
-        double res = DBL_MAX;
-        if (!across) {
-            for (uint i = 1; i <= mask; ++i) {
-                if ((i & mask) == i && popcount(i) <= k) {
-                    if (max_time[i] == 0) {
-                        for (int j = 0; j < time.size(); ++j)
-                        if ((1 << j) & i)
-                            max_time[i] = max(max_time[i], time[j]);                             
+    double minTime(int n, int k, int m, vector<int>& time, vector<double>& mul) {
+        int fmask = (1 << n) - 1;
+        for (int i = 0; i < (1 << n); i++)
+            for (int j = 0; j < m; j++)
+                for (int k = 0; k < 2; k++)
+                    dp[i][j][k] = DBL_MAX, inqueue[i][j][k] = false;
+        for (int mask = 1; mask <= fmask; mask++) {
+            int cur = -1;
+            for (int i = 0; i < n; i++) if ((mask >> i) & 1) cur = max(cur, time[i]);
+            mxTime[mask] = cur;
+        }
+        dp[0][0][0] = 0;
+        queue<pair<int,pair<int,int>>> q;
+        q.push({0, {0, 0}});
+        inqueue[0][0][0] = 1;
+        while (q.size()) {
+            auto p = q.front();
+            q.pop();
+            int state, stage, side;
+            pair<int,int> p2;
+            tie(state, p2) = p;
+            tie(stage, side) = p2;
+
+            inqueue[state][stage][side] = 0;
+            if (side == 0) {
+                for (int mask = 1; mask <= fmask; mask++) {
+                    if ((mask & state) || __builtin_popcount(mask) > k) continue;
+                    double cost = mxTime[mask] * mul[stage];
+                    int nmask = state ^ mask;
+                    int nstage = (stage + ((int) cost)) % m;
+                    if (dp[nmask][nstage][1] > dp[state][stage][0] + cost) {
+                        dp[nmask][nstage][1] = dp[state][stage][0] + cost;
+                        if (!inqueue[nmask][nstage][1]) {
+                            inqueue[nmask][nstage][1] = 1;
+                            q.push({nmask, {nstage, 1}});
+                        }
                     }
-                    double took = mul[st] * max_time[i];
-                    int next_st = (st + (int)floor(took)) % m;
-                    res = min(res, took + dfs(mask - i, next_st, !across, singles + (popcount(i) == 1), k, m, time, mul));
+                }
+            } else {
+                for (int i = 0; i < n; i++) if ((state >> i) & 1) {
+                    double cost = time[i] * mul[stage];
+                    int nmask = state ^ (1 << i);
+                    int nstage = (stage + ((int) cost)) % m;
+                    if (dp[nmask][nstage][0] > dp[state][stage][1] + cost) {
+                        dp[nmask][nstage][0] = dp[state][stage][1] + cost;
+                        if (!inqueue[nmask][nstage][0]) {
+                            inqueue[nmask][nstage][0] = 1;
+                            q.push({nmask, {nstage, 0}});
+                        }
+                    }
                 }
             }
         }
-        else
-            for (int i = 0; i < time.size(); ++i)
-                if (((1 << i) & mask) == 0) {
-                    double took = mul[st] * time[i];
-                    int next_st = (st + (int)floor(took)) % m;
-                    res = min(res, took + dfs(mask + (1 << i), next_st, !across, singles, k, m, time, mul));
-                }
-        dp[mask][st][across][singles] = res;
+        double ans = DBL_MAX;
+        for (int j = 0; j < m; j++) ans = min(ans, dp[fmask][j][1]);
+        return ans == DBL_MAX ? -1 : ans;
     }
-    return dp[mask][st][across][singles];
-}
-double minTime(int n, int k, int m, vector<int>& time, vector<double>& mul) {                       
-    if (k == 1 && n > 1)
-        return -1;
-    return dfs((1 << n) - 1, 0, false, 0, k, m, time, mul);
-}
 };
