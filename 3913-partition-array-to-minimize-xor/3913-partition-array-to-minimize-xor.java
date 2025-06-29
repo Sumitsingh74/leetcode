@@ -19,7 +19,8 @@ class Solution {
 		arr=new long[n+1];for(int i=0;i<n;i++){
 			arr[i+1]=nums[i]^arr[i];
 		}
-		cp=new long[n+1][n+1][k+1];for(int i=0;i<=n;i++)for(int j=0;j<=n;j++)Arrays.fill(cp[i][j],-1);
+		cp=new long[n+1][n+1][k+1];
+        for(int i=0;i<=n;i++)for(int j=0;j<=n;j++)Arrays.fill(cp[i][j],-1);
 		ans=stick(1,1,n,0,k);
 		return (int) ans;
 	}
