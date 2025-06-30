@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sumitsingh74/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sumitsingh74/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sumitsingh74/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumitsingh74/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sumitsingh74/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1160-letter-tile-possibilities](https://github.com/Sumitsingh74/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumitsingh74/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh74/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
