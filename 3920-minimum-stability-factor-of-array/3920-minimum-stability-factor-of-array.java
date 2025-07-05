@@ -84,7 +84,7 @@ class Solution {
 	static SparseTableGCD sg;
 	public static int minStable(int[] nums, int maxC) {
         int n = nums.length;
-        SparseGCD sg = new SparseGCD(nums);
+       sg = new SparseTableGCD(nums);
 
         IntPredicate ok = L -> {
             int i = 0, used = 0, cover = -1;
