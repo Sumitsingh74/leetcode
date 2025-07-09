@@ -9,13 +9,13 @@ class Solution {
 		int prev=0;
 		for(int i=0;i<n;i++){
 			int l=i;int r=i+k-1;
-			int an=-1;
-			while(l<=r){
-				int mid=(l+r)/2;
-				if(mid<n&&endTime[mid]<=eventTime){
-					an=mid;l=mid+1;
-				}else r=mid-1;
-			}
+			int an=Math.min(r,n-1);
+			// while(l<=r){
+			// 	int mid=(l+r)/2;
+			// 	if(mid<n&&endTime[mid]<=eventTime){
+			// 		an=mid;l=mid+1;
+			// 	}else r=mid-1;
+			// }
 			if(an!=-1){
 				int end=eventTime;
 				if(an+1<n)end=Math.min(end,startTime[an+1]);
