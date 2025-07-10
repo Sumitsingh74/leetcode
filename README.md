@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Sumitsingh74/leetcode/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Sumitsingh74/leetcode/tree/master/0881-loud-and-rich) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sumitsingh74/leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0868-push-dominoes](https://github.com/Sumitsingh74/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Sumitsingh74/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3841-concatenated-divisibility](https://github.com/Sumitsingh74/leetcode/tree/master/3841-concatenated-divisibility) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumitsingh74/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Sumitsingh74/leetcode/tree/master/1500-count-largest-group) |
