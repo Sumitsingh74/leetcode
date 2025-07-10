@@ -1,48 +1,42 @@
-import  java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-
 class ZeroEvenOdd {
     private int n;
-    private Semaphore zero;
-    private Semaphore even;
-    private Semaphore odd;
-
+    private int state = 0;
 
     public ZeroEvenOdd(int n) {
         this.n = n;
-        zero=new Semaphore(1);
-        odd=new Semaphore(0);
-        even=new Semaphore(0);
     }
 
-    public void zero(IntConsumer printNumber) throws InterruptedException {
-        boolean isOdd=true;
-        for(int i=1;i<=n;i++){
-            zero.acquire();
-            printNumber.accept(0);
-            if(isOdd){
-                odd.release();
-            }else {
-                even.release();
+
+    public synchronized void zero(IntConsumer printNumber) throws InterruptedException {
+        for(int i = 0 ; i < n; i++) {
+            while (state != 0) {
+                wait();
             }
-            isOdd=!isOdd;
+            printNumber.accept(0);
+            state = i % 2 == 0 ? 1 : 2;
+            notifyAll();
         }
     }
 
-    public void even(IntConsumer printNumber) throws InterruptedException {
-        for(int i=2;i<=n;i+=2) {
-            even.acquire();
+    public synchronized void even(IntConsumer printNumber) throws InterruptedException {
+        for(int i = 2 ; i <= n; i+=2) {
+            while (state != 2) {
+                wait();
+            }
             printNumber.accept(i);
-            zero.release();
+            state = 0;
+            notifyAll();
         }
     }
 
-    public void odd(IntConsumer printNumber) throws InterruptedException {
-        for(int i=1;i<=n;i+=2) {
-            odd.acquire();
+    public synchronized void odd(IntConsumer printNumber) throws InterruptedException {
+        for(int i = 1 ; i <= n; i += 2) {
+            while (state != 1) {
+                wait();
+            }
             printNumber.accept(i);
-            zero.release();
+            state = 0;
+            notifyAll();
         }
     }
 }
