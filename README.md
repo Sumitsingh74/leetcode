@@ -875,4 +875,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1216-print-zero-even-odd](https://github.com/Sumitsingh74/leetcode/tree/master/1216-print-zero-even-odd) |
+| [1316-fizz-buzz-multithreaded](https://github.com/Sumitsingh74/leetcode/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
