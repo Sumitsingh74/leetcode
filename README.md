@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sumitsingh74/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0554-brick-wall](https://github.com/Sumitsingh74/leetcode/tree/master/0554-brick-wall) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -891,4 +893,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1216-print-zero-even-odd](https://github.com/Sumitsingh74/leetcode/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/Sumitsingh74/leetcode/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/Sumitsingh74/leetcode/tree/master/1340-the-dining-philosophers) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
