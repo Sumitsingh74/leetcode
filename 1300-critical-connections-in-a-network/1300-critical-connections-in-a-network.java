@@ -10,7 +10,7 @@ class Solution {
 		disc[u] = low[u] = ++time;
 		int children = 0;
 		for (int v : adj[u]) {
-			if (p==v)continue;
+			// if (p==v)continue;
 			if (!visited[v]) {
 				parent[v] = u;
 				children++;
