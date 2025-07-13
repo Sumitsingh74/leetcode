@@ -22,7 +22,7 @@ class Solution {
 					list.add(tem);
 				}
 			} else if (v != parent[u]) {
-				low[u] = Math.min(low[u], disc[v]);
+				low[u] = Math.min(low[u], low[v]);
 			}
 		}
 		
