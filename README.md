@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sumitsingh74/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sumitsingh74/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Sumitsingh74/leetcode/tree/master/0076-minimum-window-substring) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0868-push-dominoes](https://github.com/Sumitsingh74/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sumitsingh74/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sumitsingh74/leetcode/tree/master/0684-redundant-connection) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0460-lfu-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0460-lfu-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sumitsingh74/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
