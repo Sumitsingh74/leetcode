@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/Sumitsingh74/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sumitsingh74/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sumitsingh74/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0868-push-dominoes](https://github.com/Sumitsingh74/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/Sumitsingh74/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sumitsingh74/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 ## Sliding Window
@@ -868,12 +871,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sumitsingh74/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sumitsingh74/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
