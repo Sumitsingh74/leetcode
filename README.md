@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sumitsingh74/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Sumitsingh74/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sumitsingh74/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Sumitsingh74/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sumitsingh74/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/Sumitsingh74/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sumitsingh74/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sumitsingh74/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Sumitsingh74/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sumitsingh74/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumitsingh74/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Sumitsingh74/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
