@@ -1,11 +1,7 @@
 class Solution {
     public int cal(int ext, int ind, int[] nums, int[][] dp) {
-        // Single element left
         if (ind == nums.length) return nums[ext];
-
-        // 2 Elements left
         if (ind == nums.length - 1) return Math.max(nums[ext], nums[ind]);
-
         if (dp[ind][ext] != -1) return dp[ind][ext];
         int f = Math.max(nums[ind], nums[ind + 1]) + cal(ext, ind + 2, nums, dp);
         int s = Math.max(nums[ext], nums[ind + 1]) + cal(ind, ind + 2, nums, dp);
