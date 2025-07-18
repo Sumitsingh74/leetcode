@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/Sumitsingh74/leetcode/tree/master/3707-find-the-most-common-response) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sumitsingh74/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sumitsingh74/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-count-beautiful-splits-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3841-concatenated-divisibility](https://github.com/Sumitsingh74/leetcode/tree/master/3841-concatenated-divisibility) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
