@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sumitsingh74/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sumitsingh74/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Sumitsingh74/leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0126-word-ladder-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sumitsingh74/leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0126-word-ladder-ii) |
 | [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sumitsingh74/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0126-word-ladder-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Sumitsingh74/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sumitsingh74/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0126-word-ladder-ii) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/Sumitsingh74/leetcode/tree/master/0684-redundant-connection) |
