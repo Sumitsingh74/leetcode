@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sumitsingh74/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sumitsingh74/leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Sumitsingh74/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sumitsingh74/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumitsingh74/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Sumitsingh74/leetcode/tree/master/0135-candy) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sumitsingh74/leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sumitsingh74/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sumitsingh74/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumitsingh74/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
