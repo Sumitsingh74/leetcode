@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sumitsingh74/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumitsingh74/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sumitsingh74/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sumitsingh74/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sumitsingh74/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sumitsingh74/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Sumitsingh74/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sumitsingh74/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Sumitsingh74/leetcode/tree/master/2145-grid-game) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumitsingh74/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sumitsingh74/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Sumitsingh74/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sumitsingh74/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sumitsingh74/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Sumitsingh74/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 ## Data Stream
 |  |
@@ -921,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sumitsingh74/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sumitsingh74/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Strongly Connected Component
 |  |
