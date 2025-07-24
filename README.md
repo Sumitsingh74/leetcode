@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sumitsingh74/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2344-escape-the-spreading-fire](https://github.com/Sumitsingh74/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sumitsingh74/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh74/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumitsingh74/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Sumitsingh74/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2344-escape-the-spreading-fire](https://github.com/Sumitsingh74/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh74/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sumitsingh74/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Sumitsingh74/leetcode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Sumitsingh74/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sumitsingh74/leetcode/tree/master/1876-map-of-highest-peak) |
+| [2344-escape-the-spreading-fire](https://github.com/Sumitsingh74/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sumitsingh74/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Sumitsingh74/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sumitsingh74/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Sumitsingh74/leetcode/tree/master/2145-grid-game) |
+| [2344-escape-the-spreading-fire](https://github.com/Sumitsingh74/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumitsingh74/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
