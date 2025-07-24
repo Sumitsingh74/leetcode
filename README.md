@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Sumitsingh74/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumitsingh74/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sumitsingh74/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1403-palindrome-partitioning-iii](https://github.com/Sumitsingh74/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumitsingh74/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sumitsingh74/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/Sumitsingh74/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1348-maximum-score-of-spliced-array](https://github.com/Sumitsingh74/leetcode/tree/master/1348-maximum-score-of-spliced-array) |
+| [1403-palindrome-partitioning-iii](https://github.com/Sumitsingh74/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sumitsingh74/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Sumitsingh74/leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
