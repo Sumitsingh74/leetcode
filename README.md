@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Sumitsingh74/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumitsingh74/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/Sumitsingh74/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Sumitsingh74/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2601-number-of-great-partitions](https://github.com/Sumitsingh74/leetcode/tree/master/2601-number-of-great-partitions) |
