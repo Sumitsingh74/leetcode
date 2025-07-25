@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3801-count-beautiful-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/3801-count-beautiful-numbers) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3841-concatenated-divisibility](https://github.com/Sumitsingh74/leetcode/tree/master/3841-concatenated-divisibility) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
