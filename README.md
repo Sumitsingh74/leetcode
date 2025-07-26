@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/Sumitsingh74/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sumitsingh74/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0460-lfu-cache) |
 | [0554-brick-wall](https://github.com/Sumitsingh74/leetcode/tree/master/0554-brick-wall) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sumitsingh74/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sumitsingh74/leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Sumitsingh74/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Sumitsingh74/leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/Sumitsingh74/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumitsingh74/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sumitsingh74/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sumitsingh74/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1160-letter-tile-possibilities](https://github.com/Sumitsingh74/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -883,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1038,4 +1044,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Sumitsingh74/leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
