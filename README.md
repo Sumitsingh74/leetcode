@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumitsingh74/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sumitsingh74/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitsingh74/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sumitsingh74/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sumitsingh74/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitsingh74/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Sumitsingh74/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Sumitsingh74/leetcode/tree/master/0460-lfu-cache) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0101-symmetric-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitsingh74/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sumitsingh74/leetcode/tree/master/0337-house-robber-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0101-symmetric-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitsingh74/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sumitsingh74/leetcode/tree/master/0337-house-robber-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1091,5 +1095,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitsingh74/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sumitsingh74/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
