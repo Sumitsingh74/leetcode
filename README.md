@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sumitsingh74/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumitsingh74/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Sumitsingh74/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Hash Table
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumitsingh74/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Recursion
 |  |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
