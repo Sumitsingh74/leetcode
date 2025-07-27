@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0101-symmetric-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1082,5 +1085,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
