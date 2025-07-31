@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Sumitsingh74/leetcode/tree/master/0881-loud-and-rich) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Sumitsingh74/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sumitsingh74/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0868-push-dominoes](https://github.com/Sumitsingh74/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/Sumitsingh74/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Sumitsingh74/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sumitsingh74/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2068-maximum-genetic-difference-query](https://github.com/Sumitsingh74/leetcode/tree/master/2068-maximum-genetic-difference-query) |
