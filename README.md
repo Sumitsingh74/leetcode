@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumitsingh74/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumitsingh74/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Sumitsingh74/leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/Sumitsingh74/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0213-house-robber-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0213-house-robber-ii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sumitsingh74/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
