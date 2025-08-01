@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3858-subtree-inversion-sum](https://github.com/Sumitsingh74/leetcode/tree/master/3858-subtree-inversion-sum) |
+| [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Binary Search
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumitsingh74/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3859-maximum-product-of-two-digits](https://github.com/Sumitsingh74/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 | [3922-minimum-moves-to-reach-target-in-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 ## Graph
 |  |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumitsingh74/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 ## Brainteaser
 |  |
 | ------- |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 ## Recursion
 |  |
 | ------- |
