@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Sumitsingh74/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Sumitsingh74/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sumitsingh74/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sumitsingh74/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sumitsingh74/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Sumitsingh74/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/Sumitsingh74/leetcode/tree/master/3729-unit-conversion-i) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumitsingh74/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumitsingh74/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
@@ -829,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sumitsingh74/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sumitsingh74/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
