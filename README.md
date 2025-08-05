@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sumitsingh74/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Sumitsingh74/leetcode/tree/master/3833-merge-operations-for-minimum-travel-time) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Sumitsingh74/leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumitsingh74/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumitsingh74/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Sumitsingh74/leetcode/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1030,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Sumitsingh74/leetcode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sumitsingh74/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
