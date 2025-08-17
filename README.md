@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumitsingh74/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumitsingh74/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Sumitsingh74/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Sumitsingh74/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Brainteaser
 |  |
 | ------- |
