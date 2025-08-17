@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumitsingh74/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumitsingh74/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumitsingh74/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Depth-First Search
 |  |
 | ------- |
