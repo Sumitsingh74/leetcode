@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumitsingh74/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sumitsingh74/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3951-next-special-palindrome-number](https://github.com/Sumitsingh74/leetcode/tree/master/3951-next-special-palindrome-number) |
 ## Bit Manipulation
 |  |
 | ------- |
