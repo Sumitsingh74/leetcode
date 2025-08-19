@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Sumitsingh74/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Sumitsingh74/leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3822-fill-a-special-grid](https://github.com/Sumitsingh74/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Sumitsingh74/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Sliding Window
 |  |
 | ------- |
