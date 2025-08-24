@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sumitsingh74/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumitsingh74/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumitsingh74/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Sumitsingh74/leetcode/tree/master/1656-count-good-triplets) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-maximum-score-of-spliced-array](https://github.com/Sumitsingh74/leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1403-palindrome-partitioning-iii](https://github.com/Sumitsingh74/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sumitsingh74/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumitsingh74/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumitsingh74/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Sumitsingh74/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Sumitsingh74/leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Sumitsingh74/leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Sumitsingh74/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumitsingh74/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumitsingh74/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumitsingh74/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh74/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
