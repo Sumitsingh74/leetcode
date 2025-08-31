@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sumitsingh74/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sumitsingh74/leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/Sumitsingh74/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sumitsingh74/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sumitsingh74/leetcode/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Sumitsingh74/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sumitsingh74/leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0126-word-ladder-ii) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumitsingh74/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Sumitsingh74/leetcode/tree/master/0046-permutations) |
 | [0126-word-ladder-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0126-word-ladder-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Sumitsingh74/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumitsingh74/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
