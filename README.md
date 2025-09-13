@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumitsingh74/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sumitsingh74/leetcode/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumitsingh74/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-count-covered-buildings](https://github.com/Sumitsingh74/leetcode/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumitsingh74/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/Sumitsingh74/leetcode/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sumitsingh74/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumitsingh74/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumitsingh74/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Topological Sort
 |  |
 | ------- |
