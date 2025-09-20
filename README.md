@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
+| [0833-bus-routes](https://github.com/Sumitsingh74/leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Sumitsingh74/leetcode/tree/master/0881-loud-and-rich) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumitsingh74/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/Sumitsingh74/leetcode/tree/master/0833-bus-routes) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumitsingh74/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Sumitsingh74/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Sumitsingh74/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/Sumitsingh74/leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sumitsingh74/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sumitsingh74/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
