@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2889-number-of-black-blocks](https://github.com/Sumitsingh74/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sumitsingh74/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumitsingh74/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2889-number-of-black-blocks](https://github.com/Sumitsingh74/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumitsingh74/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumitsingh74/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2889-number-of-black-blocks](https://github.com/Sumitsingh74/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2998-count-symmetric-integers](https://github.com/Sumitsingh74/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
