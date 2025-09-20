@@ -1,45 +1,38 @@
 class Solution {
     public int numBusesToDestination(int[][] routes, int source, int target) {
-        if (source == target) {
-            return 0;
-        }
-        int maxStop = -1;
-        for (int[] route : routes) {
-            for (int stop : route) {
-                maxStop = Math.max(maxStop, stop);
+        if (source == target) return 0;
+
+        Map<Integer, List<Integer>> map = new HashMap<>();
+        for (int bus = 0; bus < routes.length; bus++) {
+            for (int station : routes[bus]) {
+                map.putIfAbsent(station, new ArrayList<>());
+                map.get(station).add(bus);
             }
         }
-        if(source>target){
-            int t=source;
-            source=target;
-            target=t;
-        }
-        if (maxStop < target) {
-            return -1;
-        }
+
+        Set<Integer> visitedBuses = new HashSet<>();
+        Set<Integer> visitedStations = new HashSet<>();
+        Queue<Integer> queue = new LinkedList<>();
+        queue.offer(source);
+
+        int count = 0;
+    while (!queue.isEmpty()) {
+        int size = queue.size();
+        count++; // We're about to take one more bus
+    
+        for (int i = 0; i < size; i++) {
+          int currStation = queue.poll();
         
-        int n = routes.length;
-        int[] minBusesToReach = new int[maxStop + 1];
-        Arrays.fill(minBusesToReach, n + 1);
-        minBusesToReach[source] = 0;
-        boolean flag = true;
-        while (flag) {
-            flag = false;
-            for (int[] route : routes) {
-                int min = n + 1;
-                for (int stop : route) {
-                    min = Math.min(min, minBusesToReach[stop]);
-                }
-                min++;
-                for (int stop : route) {
-                    if (minBusesToReach[stop] > min) {
-                        minBusesToReach[stop] = min;
-                        flag = true;
-                    }
-                }
-            }
+           for (int bus : map.getOrDefault(currStation, new ArrayList<>())) {
+              if (!visitedBuses.add(bus)) continue;
             
-        }
-        return (minBusesToReach[target] < n + 1 ? minBusesToReach[target] : -1);
+              for (int station : routes[bus]) {
+                  if (station == target) return count;
+                  if (visitedStations.add(station)) queue.offer(station);
+              }
+          }
+      }
+   }
+        return -1;
     }
 }
