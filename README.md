@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Sumitsingh74/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Sumitsingh74/leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Sumitsingh74/leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Sumitsingh74/leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Brainteaser
 |  |
 | ------- |
