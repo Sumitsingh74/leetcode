@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-partition-array-for-maximum-xor-and-and](https://github.com/Sumitsingh74/leetcode/tree/master/3882-partition-array-for-maximum-xor-and-and) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/Sumitsingh74/leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3900-find-weighted-median-node-in-tree) |
+| [3928-split-and-merge-array-transformation](https://github.com/Sumitsingh74/leetcode/tree/master/3928-split-and-merge-array-transformation) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/Sumitsingh74/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Sumitsingh74/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Sumitsingh74/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Sumitsingh74/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumitsingh74/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3928-split-and-merge-array-transformation](https://github.com/Sumitsingh74/leetcode/tree/master/3928-split-and-merge-array-transformation) |
 ## Sorting
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Sumitsingh74/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/Sumitsingh74/leetcode/tree/master/3729-unit-conversion-i) |
+| [3928-split-and-merge-array-transformation](https://github.com/Sumitsingh74/leetcode/tree/master/3928-split-and-merge-array-transformation) |
 ## Matrix
 |  |
 | ------- |
