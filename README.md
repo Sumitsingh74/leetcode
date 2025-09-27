@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
+| [0830-largest-triangle-area](https://github.com/Sumitsingh74/leetcode/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/Sumitsingh74/leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Sumitsingh74/leetcode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Sumitsingh74/leetcode/tree/master/0876-hand-of-straights) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/Sumitsingh74/leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Sumitsingh74/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Sumitsingh74/leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumitsingh74/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumitsingh74/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sumitsingh74/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/Sumitsingh74/leetcode/tree/master/0830-largest-triangle-area) |
 ## Concurrency
 |  |
 | ------- |
