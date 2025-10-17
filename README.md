@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Sumitsingh74/leetcode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sumitsingh74/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumitsingh74/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Sumitsingh74/leetcode/tree/master/3396-valid-word) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sumitsingh74/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sumitsingh74/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumitsingh74/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumitsingh74/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sumitsingh74/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sumitsingh74/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumitsingh74/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sumitsingh74/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3841-concatenated-divisibility](https://github.com/Sumitsingh74/leetcode/tree/master/3841-concatenated-divisibility) |
