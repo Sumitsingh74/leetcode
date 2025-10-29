@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumitsingh74/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Sumitsingh74/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sumitsingh74/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3841-concatenated-divisibility](https://github.com/Sumitsingh74/leetcode/tree/master/3841-concatenated-divisibility) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumitsingh74/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sumitsingh74/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Sumitsingh74/leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sumitsingh74/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sumitsingh74/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
