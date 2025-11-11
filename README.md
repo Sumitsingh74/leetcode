@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sumitsingh74/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sumitsingh74/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
+| [0474-ones-and-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Sumitsingh74/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sumitsingh74/leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0554-brick-wall](https://github.com/Sumitsingh74/leetcode/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumitsingh74/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Sumitsingh74/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sumitsingh74/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Sumitsingh74/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
