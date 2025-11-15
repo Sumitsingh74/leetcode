@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Sumitsingh74/leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sumitsingh74/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Sumitsingh74/leetcode/tree/master/3447-clear-digits) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sumitsingh74/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sumitsingh74/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumitsingh74/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sumitsingh74/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Sumitsingh74/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sumitsingh74/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumitsingh74/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
