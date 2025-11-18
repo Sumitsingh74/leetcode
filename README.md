@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Sumitsingh74/leetcode/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumitsingh74/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sumitsingh74/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
