@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Sumitsingh74/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sumitsingh74/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sumitsingh74/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumitsingh74/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sumitsingh74/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Sumitsingh74/leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Sumitsingh74/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Sumitsingh74/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sumitsingh74/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumitsingh74/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sumitsingh74/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumitsingh74/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Sumitsingh74/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sumitsingh74/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumitsingh74/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sumitsingh74/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumitsingh74/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sumitsingh74/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
