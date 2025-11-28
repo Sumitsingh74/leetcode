@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sumitsingh74/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sumitsingh74/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Sumitsingh74/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1149,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Sumitsingh74/leetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sumitsingh74/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Sumitsingh74/leetcode/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sumitsingh74/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Sumitsingh74/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
