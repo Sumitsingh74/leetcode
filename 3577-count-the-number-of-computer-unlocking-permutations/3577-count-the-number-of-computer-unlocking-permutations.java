@@ -1,25 +1,17 @@
 class Solution {
-    public int countPermutations(int[] nums) {
-        int MOD = (int)1e9 + 7;
-        int n = nums.length;
-        int mini = Integer.MAX_VALUE;
-        for (int num : nums) {
-            mini = Math.min(mini, num);
-        }
+    public int countPermutations(int[] complexity) {
+        int n = complexity.length, min = complexity[0];
+        int MOD = (int) 1e9 + 7;
 
-        if (nums[0] != mini) return 0;
-
-        int cnt = 0;
-        for (int num : nums) {
-            if (num == mini) cnt++;
-            if (cnt > 1) return 0;
-        }
-
-        long ans = 1;
         for (int i = 1; i < n; i++) {
-            ans = (ans * i) % MOD;
+            if (complexity[i] <= min) return 0;
         }
 
-        return (int)ans;
+        long ft = 1;
+        for (int i = 2; i < n; i++) {
+            ft = (ft * i) % MOD;
+        }
+
+        return (int) ft;
     }
 }
