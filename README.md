@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/Sumitsingh74/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Sumitsingh74/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-prefix-and-suffix-search](https://github.com/Sumitsingh74/leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0868-push-dominoes](https://github.com/Sumitsingh74/leetcode/tree/master/0868-push-dominoes) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Sumitsingh74/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sumitsingh74/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Sumitsingh74/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/Sumitsingh74/leetcode/tree/master/2169-simple-bank-system) |
