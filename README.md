@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumitsingh74/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumitsingh74/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumitsingh74/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-alternating-groups-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sumitsingh74/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumitsingh74/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumitsingh74/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumitsingh74/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Sumitsingh74/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Sumitsingh74/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Sumitsingh74/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumitsingh74/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumitsingh74/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sumitsingh74/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumitsingh74/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sumitsingh74/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Sumitsingh74/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumitsingh74/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sumitsingh74/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sumitsingh74/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sumitsingh74/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1406,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sumitsingh74/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Sumitsingh74/leetcode/tree/master/0830-largest-triangle-area) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumitsingh74/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Concurrency
 |  |
