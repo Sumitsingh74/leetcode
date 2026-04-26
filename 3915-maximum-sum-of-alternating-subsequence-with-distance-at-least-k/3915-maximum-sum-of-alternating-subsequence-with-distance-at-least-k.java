@@ -45,18 +45,12 @@ class Solution {
             SegmentTree smax = new SegmentTree((int)1e5 + 5);
             for (int i = 0; i < n; i++) crr[0][i] = crr[1][i] = (long)arr[i];
             for (int i = k; i < n; i++) {
-                int l = arr[i - k];
-                long min = crr[0][i - k];
-                long max = crr[1][i - k];
-                smax.update(l, min);
-                smin.update(l, max);
-                min = smin.query(1, arr[i] - 1);
-                max = smax.query(arr[i] + 1, (int)1e5);
-                int l1 = arr[i];
-                brr[0][i] = l1 + min;
-                brr[1][i] = l1 + max;
-                crr[0][i] = brr[0][i];
-                crr[1][i] = brr[1][i];
+                int l = arr[i - k],l1 = arr[i];
+                long min = crr[0][i - k],max = crr[1][i - k];
+                smax.update(l, min);smin.update(l, max);
+                min = smin.query(1, arr[i] - 1);max = smax.query(arr[i] + 1, (int)1e5);
+                brr[0][i] = l1 + min;brr[1][i] = l1 + max;
+                crr[0][i] = brr[0][i];crr[1][i] = brr[1][i];
                 ans = Math.max(ans, l1 + Math.max(min, max));
             }
             // java.util.Arrays.fill(smin.tree, 0L);
