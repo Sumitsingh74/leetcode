@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sumitsingh74/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitsingh74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Sumitsingh74/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Sumitsingh74/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sumitsingh74/leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sumitsingh74/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Sumitsingh74/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumitsingh74/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh74/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh74/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sumitsingh74/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumitsingh74/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sumitsingh74/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Sumitsingh74/leetcode/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/Sumitsingh74/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Sumitsingh74/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Sumitsingh74/leetcode/tree/master/0823-split-array-with-same-average) |
