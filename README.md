@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumitsingh74/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sumitsingh74/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumitsingh74/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2889-number-of-black-blocks](https://github.com/Sumitsingh74/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sumitsingh74/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-count-palindromic-subsequences](https://github.com/Sumitsingh74/leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2601-number-of-great-partitions](https://github.com/Sumitsingh74/leetcode/tree/master/2601-number-of-great-partitions) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Sumitsingh74/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sumitsingh74/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sumitsingh74/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sumitsingh74/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sumitsingh74/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
